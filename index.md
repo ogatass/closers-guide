@@ -1,77 +1,22 @@
----
-layout: default
----
+<nav style="background: #222; padding: 10px;">
+  <a href="./index.md" style="color: white; margin-right: 15px;">ホーム</a>
+  <a href="./equip.md" style="color: white; margin-right: 15px">装備情報</a>
+  <a href="./characters.md" style="color: white; margin-right: 15px;">キャラクター強化要素</a>
+  <a href="./map.md" style="color: white; margin-right: 15px;">地域情報</a>
+  <a href="./Bosss.md" style="color: white; margin-right: 15px">ボス攻略</a>
+  <a href="./other.md" style="color: white; margin-right: 15px">その他情報</a>
+  <a href="./KR.md" style="color: white; margin-right: 15px">ロードマップ(仮)</a>
+</nav>
 
-.navbar {
-  background-color: #222;
-  overflow: hidden;
-  font-family: sans-serif;
-}
-.navbar a, .dropdown .dropbtn {
-  float: left;
-  font-size: 14px;
-  color: white;
-  text-align: center;
-  padding: 12px 16px;
-  text-decoration: none;
-}
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #333;
-  min-width: 200px;
-  z-index: 1;
-}
-.dropdown-content a {
-  float: none;
-  color: white;
-  padding: 10px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
+# 何ここ？
 
-.dropdown-content a:hover {
-  background-color: #555;
-}
+CLOSERSのガイドみたいなものです
+本人の自己満と覚書程度で書いてるので気にしないでください
 
-/* ホバーで表示 */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-</style>
+## 適当な外部リンク
 
-<div class="navbar">
-  <div class="dropdown">
-    <button class="dropbtn">キャラクター強化要素一覧 ▼</button>
-    <div class="dropdown-content">
-      <a href="#">装備更新ガイド</a>
-      <a href="#">装備強化</a>
-      <a href="#">チューニング</a>
-      <a href="#">コスチューム</a>
-      <a href="#">アクセサリー/コンビネーション</a>
-      <a href="#">リベレーションオーラ</a>
-      <a href="#">PNA</a>
-      <a href="#">突然変異PNA</a>
-      <a href="#">チップ/強化アダプター</a>
-      <a href="#">ペット</a>
-      <a href="#">称号</a>
-      <a href="#">スキルキューブ</a>
-      <a href="#">チームワークパワ</a>
-    </div>
-  </div>
-</div>
-
-# ここは？
-
-CLOSERSのガイドやデータが書いてある物置です
-
-## 目次
-
-- [キャラクター一覧](./characters.md)
-- [スキル](./skills.md)
-- [装備品](./items.md)
+- [CLOSERS日本公式](https://closers.naddicjapan.com/)
+- [CLOSERS日本公式Youtube](https://www.youtube.com/@closers_jp)
+- [CLOSERS韓国公式](https://www.naddic.co.kr/ko/cls/index)
+- [CLOSERS韓国公式Youtube](https://www.youtube.com/@Closers_kr)
+- [DCinside(韓国CLOSERS掲示板)](https://gall.dcinside.com/mgallery/board/lists/?id=closers_union)
