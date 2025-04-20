@@ -1,11 +1,4 @@
----
-title: closers-guide
----
 
-<!-- カスタムCSS読み込み -->
-<head>
-  <link rel="stylesheet" href="/assets/css/style.css">
-</head>
 
 
 # ここは？
