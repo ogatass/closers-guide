@@ -8,9 +8,9 @@
   <a href="data/KR.md" style="color: white; margin-right: 15px">ロードマップ(仮)</a>
 </nav>
 
-# ここは？
+# 何これ？
 
-本人の自己満と覚書程度で書いてるCLOSERSのガイドみたいなものです
+<s>本人の自己満と覚書程度に書いてる</s>CLOSERSのガイドのようなものです  
 不定期に更新します
 
 ## 適当な外部リンク
