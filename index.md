@@ -1,17 +1,17 @@
 <nav style="background: #222; padding: 10px;">
   <a href="./index.md" style="color: white; margin-right: 15px;">ホーム</a>
-  <a href="./equip.md" style="color: white; margin-right: 15px">装備情報</a>
-  <a href="./characters.md" style="color: white; margin-right: 15px;">キャラクター強化要素</a>
-  <a href="./map.md" style="color: white; margin-right: 15px;">地域情報</a>
-  <a href="./Bosss.md" style="color: white; margin-right: 15px">ボス攻略</a>
-  <a href="./other.md" style="color: white; margin-right: 15px">その他情報</a>
-  <a href="./KR.md" style="color: white; margin-right: 15px">ロードマップ(仮)</a>
+  <a href="data/equip.md" style="color: white; margin-right: 15px">装備情報</a>
+  <a href="data/characters.md" style="color: white; margin-right: 15px;">キャラクター強化要素</a>
+  <a href="data/map.md" style="color: white; margin-right: 15px;">地域情報</a>
+  <a href="data/Boss.md" style="color: white; margin-right: 15px">ボス攻略</a>
+  <a href="data/other.md" style="color: white; margin-right: 15px">その他情報</a>
+  <a href="data/KR.md" style="color: white; margin-right: 15px">ロードマップ(仮)</a>
 </nav>
 
-# 何ここ？
+# ここは？
 
-CLOSERSのガイドみたいなものです
-本人の自己満と覚書程度で書いてるので気にしないでください
+本人の自己満と覚書程度で書いてるCLOSERSのガイドみたいなものです
+不定期に更新します
 
 ## 適当な外部リンク
 
