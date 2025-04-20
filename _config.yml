@@ -1,1 +1,10 @@
-theme: jekyll-theme-Minimal
+# Site
+title: クローザーズガイドブック
+subtitle: クローザーズガイドブック
+description: CLOSERSの解説置場
+keywords: 封印者
+author: ogatass
+language: jp
+timezone: 'Asia/japan'
+
+theme: butterfly
