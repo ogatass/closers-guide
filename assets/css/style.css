@@ -1,16 +1,7 @@
-/* 上部のGitHubボタンは既に消してある想定 */
 
-/* タイトル部分 */
-header h1.project-name {
-  display: none !important;
-}
-
-/* 説明文部分 */
-header h2.project-tagline {
-  display: none !important;
-}
-
-/* ヘッダー自体を消すならこれでも可 */
 header {
+  display: none !important;
+}
+footer {
   display: none !important;
 }
