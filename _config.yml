@@ -1,5 +1,5 @@
 
-theme: jekyll-theme-Slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
