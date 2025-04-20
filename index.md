@@ -1,8 +1,12 @@
 ---
-layout: default
+title: closers-guide
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<!-- カスタムCSS読み込み -->
+<head>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
 
 # ここは？
 
