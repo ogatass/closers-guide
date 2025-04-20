@@ -1,0 +1,9 @@
+/* View on GitHub ボタンを非表示 */
+.github-button {
+  display: none !important;
+}
+
+/* フッター全体を非表示 */
+footer {
+  display: none !important;
+}
