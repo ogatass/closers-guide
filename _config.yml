@@ -1,2 +1,15 @@
 
 theme: jekyll-theme-Slate
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# カスタムCSSを読み込むための設定
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      stylesheet: /assets/css/style.css
