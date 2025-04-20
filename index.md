@@ -8,10 +8,12 @@
   <a href="data/KR.md" style="color: white; margin-right: 15px">ロードマップ(仮)</a>
 </nav>
 
+
 # 何これ？
-CLOSERSのガイドのようなものです
+CLOSERSのガイドのようなものです  
 <s>本人の自己満と覚書程度に書いてますのでクオリティは気にしないでください</s>  
-不定期に更新します
+不定期に更新します  
+![](./img/EMT_ZZUL_ARMS.PNG)
 
 ## 適当な外部リンク
 
