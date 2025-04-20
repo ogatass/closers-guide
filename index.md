@@ -1,4 +1,9 @@
+---
+layout: default
+---
+
 <link rel="stylesheet" href="/assets/css/style.css">
+
 # ここは？
 
 CLOSERSのガイドが書いてあるwikiです
